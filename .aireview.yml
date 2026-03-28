@@ -1,0 +1,7 @@
+model: "gemini-2.5-flash"
+ignore_paths:
+  - "tests/"
+  - "node_modules/"
+  - ".venv/"
+  - "venv/"
+  - "__pycache__/"
